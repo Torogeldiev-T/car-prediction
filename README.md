@@ -1,1 +1,1 @@
-# car-prediction
+# Used cars cost prediction model
